@@ -1,0 +1,13 @@
+**************** Sistema desenvolvido em Delphi 7 ************************
+
+descompactar em c:\
+
+Instalar firebird 1.5 ou 2.1
+
+
+
+****************Componentes utilizados****************
+
+
+-fortesreports 3.19               -  www.fortesreport.com.br
+-zIPMasters			  -  http://www.delphizip.net/index.html

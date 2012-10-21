@@ -1,0 +1,11 @@
+#define SCE___Sistema_Controle_de_Estoque 1003
+#define Menu_Principal 1004
+#define Alunos 101
+#define Login 1001
+#define Professor 106
+#define Tipo_Documento 108
+#define Empresas 103
+#define Turma 109
+#define Documento 1008
+#define Avalia__o 212
+#define Feriado 104

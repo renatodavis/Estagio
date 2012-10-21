@@ -1,0 +1,56 @@
+package ZMstr4R178;
+
+{$R *.RES}
+{$R '..\vcl\ZipSFX.dcr'}
+{$R '..\dll\ResDlls.res'}
+{$ALIGN OFF}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA OFF}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $04200000}
+{$DESCRIPTION 'ZipMaster 1.78'}
+{$RUNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  vcl40,
+  Vclx40;
+
+contains
+  ZipLdr in '..\VCL\ZipLdr.pas',
+  ZipMsg in '..\VCL\ZipMsg.pas',
+  SFXInterface in '..\VCL\SFXInterface.pas',
+  SFXStructs in '..\VCL\SFXStructs.pas',
+  DZUtils in '..\VCL\DZUtils.pas',
+  ZipSFX in '..\VCL\ZipSFX.pas',
+  ZipBase in '..\VCL\ZipBase.pas',
+  ZipDlg in '..\VCL\ZipDlg.pas',
+  ZipUtils in '..\VCL\ZipUtils.pas',
+  ZipWrkr in '..\VCL\ZipWrkr.pas',
+  ZipStrs in '..\VCL\ZipStrs.pas',
+  ZipStructs in '..\VCL\ZipStructs.pas',
+  ZCallBck in '..\VCL\ZCallBck.pas',
+  ZipMstr in '..\VCL\ZipMstr.pas',
+  UNZDLL in '..\VCL\UnzDLL.pas',
+  ZIPDLL in '..\VCL\ZipDLL.pas',
+  ZipCtx in '..\VCL\ZipCtx.pas',
+  ZipProg in '..\VCL\ZipProg.pas',
+  ZipXcpt in '..\VCL\ZipXcpt.pas';
+
+end.

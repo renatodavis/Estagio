@@ -1,0 +1,13 @@
+Recent changes
+1.77.2.0
+   OnAfterCallback renamed to OnCheckTerminate
+   ProcessMessages not called and cursor not changed if not running main thread.
+1.77.1.0
+   Renamed some units - this should help reduce some compiler problems when more than one version are (or have been) installed.
+    NOTE ZipMstr.pas is now ZipMstr177.pas so you may need to update some 'uses' clauses.
+     
+   Removed the event OnZipStr - this has been replaced by global function which can be set to new handler
+     see vcl\ZpStrs177.pas 
+       function SetZipStr(handler: TZipStrEvent): TZipStrEvent;
+       
+       

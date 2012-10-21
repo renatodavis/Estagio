@@ -1,0 +1,64 @@
+DZSFX License:
+--------------
+
+	This software is provided "as is" without warranty of any kind, 
+	either expressed or implied.  the entire risk as to the
+	quality and performance of the software is with you.  should the
+	software prove defective, you assume the cost of all necessary
+	servicing, repair, or correction.  in no event shall the author,
+	copyright holder, or any other party who may redistribute the
+	software be liable to you for damages, including any general,
+	special, incidental, or consequential damages arising out of
+	the use or inability to use the software (including, but not
+	limited to, loss of data, data being rendered inaccurate, loss of
+	business profits, loss of business information, business 
+	interruptions, loss sustained by you or third parties, or a 
+	failure of the software to operate with any other software) even
+	if the author, copyright holder, or other party has been advised
+	of the possibility of such damages.
+
+
+
+                      Distribution Policy
+              Guidelines for Legal Re-distribution
+
+  1) This applies to both end-users and developers.
+    
+  2) You must not charge money for any part of the ZIP package.
+     Warning:  The primary concern here is if you will market a
+     new package that is only slightly more than a verbatim copy 
+     of this package, or one of its demos.  ANY release you sell
+     is OK as long as you charge ONLY for the changes you make.
+
+  3) You MUST either distribute the source code for this ZIP
+     package, or give a WWW site where it can be obtained
+     freely. This can be on a Help...About screen, in printed
+     documentation, or in text files distributed with your 
+     package.  Yes, it does seem odd to have this requirement
+     for end-users who aren't programmers, but there is no
+     mistake.  After all, it isn't hard to give them a URL
+     and a few words explaining what it is for.
+
+  4) You must document the Info-Zip's WWW home page URL, but 
+     don't expect any help from the Info-Zip group, since my 
+     release is only a derrivitive of their work.  They are 
+     very busy doing support for their "official" releases.
+     Since much of the DLL source code comes from them, they
+     deserve to be mentioned.
+        Info-Zip:   http://www.cdrom.com/pub/infozip/
+
+  5) You must handle product support with your own end-users.
+     This is needed because we don't have enough time to do
+     support for end-users.
+
+  6) We will handle support issues with programmers using this 
+     package on a time-available basis. Since this is being
+     distributed as freeware, you can't expect the kind of 
+     support you'd get from a commercial vendor.  Please limit
+     your questions to those that directly pertain to this
+     ZIP package.
+
+  7) You may NOT distribute executable versions of the demo
+     programs to end-users without my approval.  These are 
+     only example applications to teach you how to use
+     this package. 

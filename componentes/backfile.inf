@@ -1,0 +1,31 @@
+[DSP upload]
+Filename=backfile.zip
+Replacements=
+Version=5.0
+FileURL=
+Description=Backup + restore component, supports multiple disks, data comporession, incremental or full backup, partial or full restore, ...
+Delphi 1.0=N
+Delphi 2.0=N
+Delphi 3.0=Y
+Delphi 4.0=Y
+Delphi 5.0=Y
+C++Builder 1.0=N
+File Status=Freeware
+Full Source=included
+Category=Backup / Tools
+Note=New methods implemented to create self extracting EXE files.
+Additional info=
+
+[DSP Support]
+DSP Support=Y
+
+[Versions available]
+Delphi 1.0=
+Delphi 2.0=
+Delphi 3.0=
+C++Builder 1.0=
+
+[Uploader]
+Author name=Alexander Halser
+Author E-mail=halser@ec-software.com
+Author URL=http://www.ec-software.com

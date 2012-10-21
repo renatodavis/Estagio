@@ -1,0 +1,19 @@
+1 SCE - Sistema Controle de Estágio
+2 SCE = SCE___Sistema_Controle_de_Estoque
+1 Menu Principal
+2 Menu Principal = Menu_Principal
+1 Cadastros
+2 Alunos = Alunos
+2 Ocorrência = Ocorr_ncia
+2 Empresa = Empresas
+2 Feriado = Feriado
+2 Tipo Avalição = Tipo_Avalia__o
+2 Professor = Professor
+2 Tipo Documento = Tipo_Documento
+2 Turma = Turma
+2 Categoria = Categoria
+2 Parametro = Par_metro
+1 Movimentações
+2 Documento = Documento
+2 Banca = Banca_
+2 Avaliação = Avalia__o

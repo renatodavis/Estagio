@@ -1,0 +1,36 @@
+:BASE Backup.hlp
+:TITLE New Project
+1 Welcome=Overview
+1 What's new?=New_in_this_vers
+1 Installation=Installation
+1 TBackupFile
+2 TBackupFile=IDH_9
+2 Properties
+3 BackupMode=IDH_3
+3 BackupTitle=BackupTitle
+3 Busy=Busy
+3 CompressionLevel=CompressionLevel
+3 CompressionRate=CompressionRate
+3 FilesProcessed=FilesProcessed
+3 FilesTotal=FilesTotal
+3 MaxSize=MaxSize
+3 RestoreFullPath=RestoreFullPath
+3 RestoreMode=RestoreMode
+3 SaveFileID=SaveFileID
+3 SetArchiveFlag=SetArchiveFlag
+3 SizeTotal=SizeTotal
+3 Version=Version
+2 Methods
+3 Backup=IDH_27
+3 BackupToStream=BackupToStream
+3 GetArchiveTitle=GetArchiveTitle
+3 GetArchiveTitleFromStream=GetArchiveTitleF
+3 Restore=Restore
+3 RestoreFromStream=RestoreFromStrea
+3 Stop=Stop
+2 Events
+3 OnError=OnError
+3 OnNeedDisk=OnNeedDisk
+3 OnProgress=IDH_1
+3 OnRestoreFile=OnRestoreFile
+1 How to create a self extracting EXE=How_to_create_a
